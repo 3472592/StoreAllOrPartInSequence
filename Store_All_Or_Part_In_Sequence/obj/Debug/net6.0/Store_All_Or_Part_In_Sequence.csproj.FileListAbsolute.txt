@@ -1,0 +1,15 @@
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\bin\Debug\net6.0\Store_All_Or_Part_In_Sequence.exe
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\bin\Debug\net6.0\Store_All_Or_Part_In_Sequence.deps.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\bin\Debug\net6.0\Store_All_Or_Part_In_Sequence.runtimeconfig.json
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\bin\Debug\net6.0\Store_All_Or_Part_In_Sequence.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\bin\Debug\net6.0\Store_All_Or_Part_In_Sequence.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.csproj.AssemblyReference.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.AssemblyInfoInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.AssemblyInfo.cs
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\refint\Store_All_Or_Part_In_Sequence.dll
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.pdb
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\Store_All_Or_Part_In_Sequence.genruntimeconfig.cache
+C:\Users\Liberty Fox User\Desktop\C#\Ch14\Store_All_Or_Part_In_Sequence\obj\Debug\net6.0\ref\Store_All_Or_Part_In_Sequence.dll
